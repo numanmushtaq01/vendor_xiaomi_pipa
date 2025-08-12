@@ -431,6 +431,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
     init.qcom.sensors \
     init.qti.chg_policy \
-    nv_mac \
+     nv_mac \
     sensors.qti \
     sscrpcd
