@@ -343,7 +343,6 @@ PRODUCT_PACKAGES += \
     libmmcamera_faceproc \
     libmmcamera_faceproc2 \
     libmpbase \
-    libnanopb \
     libofflinelog \
     libos \
     librawnrv2_shared \
@@ -363,7 +362,6 @@ PRODUCT_PACKAGES += \
     libsnsdiaglog \
     libssc \
     libssc_default_listener \
-    libssccalapi \
     libswregistrationalgo \
     libswvdec \
     libsymphony-cpu \
